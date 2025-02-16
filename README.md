@@ -1,8 +1,8 @@
-# 🚀 Muhammad Huzaifa | Frontend Developer  
+# 🚀 Muhammad Huzaifa | Full Stack Developer  
 
-Welcome to my portfolio! This is where **clean code meets stunning UI**—a showcase of my work, skills, and projects.  
+Welcome to my **interactive portfolio**, where **clean code meets stunning UI**!  
 
-🌍 **Live Demo:** [Click Here](#) *(Replace with actual link)*  
+🌍 **Live Portfolio:** [portfolio](https://tailwind-portfolio-six-pi.vercel.app/)  
 📂 **Tech Stack:** React.js | Tailwind CSS | Vite | Firebase | Node.js | MongoDB  
 
 ---
@@ -10,21 +10,19 @@ Welcome to my portfolio! This is where **clean code meets stunning UI**—a show
 ## 🏆 Why This Portfolio?  
 
 ✅ **⚡ Smooth & Interactive UI** – Powered by **React.js + Tailwind CSS**  
-✅ **🌗 Dark/Light Mode** – Because why not?  
-✅ **🎨 Gradient Effects & Smooth Scroll** – Feels premium, right?  
-✅ **💡 Fully Responsive** – Looks great on any screen!  
-✅ **🔥 Projects, Skills, and Testimonials** – Everything a client/recruiter needs  
+✅ **🌗 Dark/Light Mode** – Switch themes seamlessly  
+✅ **🎨 Gradient Effects & Smooth Scroll** – Premium, modern feel  
+✅ **💡 Fully Responsive** – Works on all screen sizes  
+✅ **🔥 Showcasing Projects, Skills, and Testimonials**  
 ✅ **📩 Contact Form with Validation** – Let's connect!  
 
 ---
 
-## 📸 Sneak Peek  
+## 🚀 Live Demo  
 
-### 🎨 **Dark & Light Mode**  
-![Dark Mode Preview](#) *(Replace with Screenshot)*  
+🔗 **Check it out here:** [portfolio](https://tailwind-portfolio-six-pi.vercel.app/)  
 
-### 🚀 **Project Showcase**  
-![Projects Preview](#) *(Replace with Screenshot)*  
+Want to see my work in action? **Click the link above!** 🚀  
 
 ---
 
@@ -37,12 +35,12 @@ Welcome to my portfolio! This is where **clean code meets stunning UI**—a show
 
 ---
 
-## 🚀 Get Started  
+## 🏗️ How to Run Locally  
 
-Clone this repository and run it locally:  
+Clone this repository and start the development server:  
 
 ```bash
-git clone https://github.com/yourusername/yourportfolio.git
-cd yourportfolio
+git clone https://github.com/Huzaifa-io/tailwind-portfolio.git
+cd tailwind-portfolio
 npm install
 npm run dev
