@@ -102,6 +102,7 @@ export default function Portfolio() {
             "Express.js",
             "MongoDB",
             "Postman",
+            "Joi"
           ].map((skill) => (
             <div
               key={skill}
